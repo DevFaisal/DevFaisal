@@ -17,5 +17,4 @@
 </p>
 <h3> Contact Information </h3>
  * Email: dfaisa59@gmail.com
- 
- * https://www.linkedin.com/in/dev-faisal/
+ * Linkedin https://www.linkedin.com/in/dev-faisal/
