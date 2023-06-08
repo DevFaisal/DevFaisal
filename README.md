@@ -1,5 +1,9 @@
 
 <h2>Hi there,i'm Faisal Farooq</h2>
+<p>Welcome to my GitHub repository! This repository showcases my projects, contributions, and skills in the field of computer application development. Feel free to explore the projects and code samples provided here. </p>
+
+<h3>About Me</h3>
+<p>I am Faisal Farooq, currently pursuing my Masters in Computer Application from the National Institute of Electronics and Information Technology Srinagar. I also hold a Bachelor's degree in Computer Application from the University of Kashmir. With a strong foundation in programming languages such as Java, C/C++, and JavaScript, I have gained expertise in web development using HTML, CSS, and Git </p>
 
 <h3>Programming languages:</h3>
 <p>
@@ -11,3 +15,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
+<h3> Contact Information </h3>
+-Email: dfaisa59@gmail.com
+-https://www.linkedin.com/in/dev-faisal/
