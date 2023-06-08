@@ -16,5 +16,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 <h3> Contact Information </h3>
+
  * Email: dfaisa59@gmail.com
+
  * Linkedin https://www.linkedin.com/in/dev-faisal/
